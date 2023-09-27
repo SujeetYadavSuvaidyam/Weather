@@ -1,0 +1,39 @@
+#index{
+    width: 360px;
+    height: 200px;
+    border: 1px solid red;
+    border-radius: 10px;
+    line-height: 140px;
+    text-align: center;
+
+}
+#txt{
+    padding: 10px;
+}
+#bt{
+    padding: 10px;
+}
+#result{
+    /* background-color: rgb(45, 45, 123); */
+    background-image: url(../we.jpg);
+     width: 360px;
+    height: 55vh;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 2%;
+    color: rgb(17, 16, 16);
+    line-height: 60px;
+     background-repeat: no-repeat;
+     font-size: 30px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
